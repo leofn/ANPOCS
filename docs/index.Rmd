@@ -51,6 +51,21 @@ knitr::include_graphics("img/logo_MA_color.png")
 <br>
 **Youtube**: [https://www.youtube.com/c/LABHDUFBA](https://www.youtube.com/c/LABHDUFBA)
 
+---
+class: inverse, center, middle
+
+--
+## Há ou não uma experiência social (do digital) característica das sociedade contemporâneas?
+<br>
+
+--
+## Como esta experiência pode se constituir?
+<br>
+
+--
+## De que forma esta experiência pode constituir  um objeto de investigação das ciências sociais?
+<br>
+
 
 ---
 class: inverse, center, middle
@@ -60,7 +75,7 @@ class: inverse, center, middle
 ---
 class: inverse, middle, center
 
-## "Digitalização do eu na vida cotidiana" 
+## "Digitalização do eu na vida cotidiana" (Nascimento, 2020)
 
 ```{r, out.width="80%"}
 knitr::include_graphics("img/ds.jpeg")
@@ -102,22 +117,6 @@ class: inverse, center, middle
 ```{r, out.width="65%"}
 knitr::include_graphics("img/surv.jpg")
 ```
-
----
-class: inverse, center, middle
-
---
-## Há ou não uma experiência social (do digital) característica das sociedade contemporâneas?
-<br>
-
---
-## Como esta experiência pode se constituir?
-<br>
-
---
-## De que forma esta experiência pode constituir  um objeto de investigação das ciências sociais?
-<br>
-
 
 ---
 class: inverse, center, middle
@@ -231,12 +230,12 @@ class: inverse, middle, center
 <br>
 
 --
-## Desconstruir o fetichismos dos dados, dos métodos e dos resultados
+## Desconstruir fetichismos: dos dados, dos métodos e dos resultados
 
 ---
 class: inverse, middle, center
 
-# Referências bibliográficas
+### Referências bibliográficas
 
 > ABBOTT, A. Reflections on the Future of Sociology. Contemporary Sociology,
 New York, v. 29, n. 2, p. 296, 2000
@@ -248,6 +247,8 @@ Bruno, Fernanda et al. (orgs) Tecnopolítica da vigilância: perspectivas da mar
 Boitempo, p.151-179, 2018.
 
 > MAYER-SCHÖNBERGER, V.; CUKIER, K. Big Data: A Revolution that Will Transform how We Live, Work, and Think. London: John Murray Publishers, 2013. 
+
+> NASCIMENTO, L. F. Sociologia digital: uma breve introdução. [s.l.] EDUFBA, 2020. 
 
 > RIEDER & RÖHLE. “Digital methods: Five challenges.” Understanding digital humanities. In: BERRY, David-Understanding Digital HumanitiesPalgrave Macmillan UK, 2012. (Cápitulo 4, pp. 67-84.
 
