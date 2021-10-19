@@ -235,6 +235,25 @@ class: inverse, middle, center
 ---
 class: inverse, middle, center
 
+--
+# Quem está tratando destes desafios?
+<br>
+
+--
+## Sociologia e Antropologia Digitais
+<br>
+
+--
+## Ciência Social Computacional
+<br>
+
+--
+## Humanidades Digitais
+<br>
+
+---
+class: inverse, middle, center
+
 ### Referências bibliográficas
 
 > ABBOTT, A. Reflections on the Future of Sociology. Contemporary Sociology,
@@ -248,7 +267,7 @@ Boitempo, p.151-179, 2018.
 
 > MAYER-SCHÖNBERGER, V.; CUKIER, K. Big Data: A Revolution that Will Transform how We Live, Work, and Think. London: John Murray Publishers, 2013. 
 
-> NASCIMENTO, L. F. Sociologia digital: uma breve introdução. [s.l.] EDUFBA, 2020. 
+> [NASCIMENTO, L. F. Sociologia digital: uma breve introdução. Salvador: EDUFBA, 2020](https://repositorio.ufba.br/ri/handle/ri/32746) 
 
 > RIEDER & RÖHLE. “Digital methods: Five challenges.” Understanding digital humanities. In: BERRY, David-Understanding Digital HumanitiesPalgrave Macmillan UK, 2012. (Cápitulo 4, pp. 67-84.
 
@@ -282,4 +301,4 @@ class: middle, center
 ```{r, out.width="1800px"}
 knitr::include_graphics("img/slide_02.png")
 ```
----
+
