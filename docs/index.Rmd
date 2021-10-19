@@ -1,0 +1,222 @@
+---
+title: "_"  
+encoding: "UTF-8"
+output:
+  xaringan::moon_reader:
+    chakra: libs/remark-latest.min.js
+    css: ["css/default.css", "css/mmp.css" , "css/mmp-fonts.css"]
+    lib_dir: libs
+    nature:
+      beforeInit: "https://platform.twitter.com/widgets.js"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+editor_options: 
+  chunk_output_type: console
+---
+layout: true
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+
+knitr::opts_chunk$set(
+	echo = FALSE,
+	fig.align = "center",
+	message = FALSE,
+	warning = FALSE,
+	cache = FALSE
+)
+```
+
+```{r eval=FALSE, include=FALSE}
+library(knitr)
+library(tidyverse)
+library(widgetframe)
+```
+
+---
+class: inverse, middle, center  
+
+```{r, out.width="50%"}
+knitr::include_graphics("img/logo_MA_color.png")
+```
+
+## Laboratório de Humanidades Digitais da UFBA
+
+**Twitter**: [@labhdufba](https://twitter.com/labhdufba) 
+<br>
+**Instagram**: [@labhdufba](http://instagram.com/labhdufba)
+<br>
+**Github**: [https://github.com/LABHDUFBA](https://github.com/LABHDUFBA)
+<br>
+**Youtube**: [https://www.youtube.com/c/LABHDUFBA](https://www.youtube.com/c/LABHDUFBA)
+
+
+---
+class: inverse, center, middle
+
+# Aspectos gerais das sociedades contemporâneas...
+
+---
+class: inverse, middle, center
+
+## "Digitalização do eu na vida cotidiana" 
+
+```{r, out.width="80%"}
+knitr::include_graphics("img/ds.jpeg")
+```
+---
+class: inverse, center, middle
+
+## Algoritmização de processos sociais
+
+```{r, out.width="60%"}
+knitr::include_graphics("img/matrix-digital-self.png")
+```
+
+---
+class: inverse, center, middle
+
+## Traços digitais (Howison et al. 2011, p. 769)
+
+
+```{r, out.width="75%"}
+knitr::include_graphics("img/socioloy.png")
+```
+
+---
+class: inverse, center, middle
+
+## Dataficação (Cukier & Mayer-Schoenberger, 2013)
+
+```{r, out.width="75%"}
+knitr::include_graphics("img/datafication4.jpg")
+```
+
+---
+class: middle, center
+
+## Cultura de vigilância (Lyon, 2018)
+
+
+```{r, out.width="65%"}
+knitr::include_graphics("img/surv.jpg")
+```
+
+---
+class: inverse, center, middle
+
+# Qual o papel da sociologia nesse mundo digital de dados continuamente produzidos?
+
+```{r, out.width="100%"}
+knitr::include_graphics("https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif?cid=ecf05e475vot0dyqf7ocbyf43eh75omn2pjcymz4m65rzbf4&rid=giphy.gif&ct=g")
+```
+---
+class: middle, center
+
+# Nunca tivemos tantos dados, ferramentas, técnicas... 
+
+```{r, out.width="85%"}
+knitr::include_graphics("https://media.giphy.com/media/YnlDGfCxyOIYTDp86I/giphy.gif")
+```
+
+---
+class: middle, center
+
+# ..mas nossos problemas NÃO acabaram! 
+
+```{r, out.width="85%"}
+knitr::include_graphics("https://media.giphy.com/media/H0kxiS2RJF2HC/giphy.gif")
+```
+
+---
+class: inverse, center, middle
+
+# Três grandes eixos de desafios:
+
+---
+class: middle, center
+
+--
+## 1. fontes digitais da pesquisa
+<br>
+
+--
+## 2. métodos e técnicas digitais
+<br>
+
+--
+## 3. vigilância epistemológica das pesquisas em meios digitais
+<br>
+
+---
+class: middle, center
+# 1. Desafios das fontes da pesquisa
+<br>
+
+--
+## publicidade/acessibilidade
+<br>
+
+--
+## evocação versus coleta
+<br>
+
+--
+## representatividade
+<br>
+
+--
+## pré-construção	algorítimica dos dados
+<br>
+
+--
+## capacidade computacional
+<br>
+
+---
+class: middle, center
+# 2. Desafios das técnicas e métodos
+<br>
+
+--
+## letramento digital dos pesquisadores
+<br>
+
+--
+## pré-construção	algorítimica das ferramentas ("black-box")
+<br>
+
+---
+class: inverse, middle, center
+
+# Referências bibliográficas
+
+> MAYER-SCHÖNBERGER, V.; CUKIER, K. Big Data: A Revolution that Will Transform how We Live, Work, and Think. London: John Murray Publishers, 2013. 
+
+
+> [HOWISON, J.; WIGGINS, A.; CROWSTON, K. Validity Issues in the Use of Social Network Analysis with Digital Trace Data. Journal of the Association for Information Systems, v. 12, n. 12, 29 dez. 2011.](http://aisel.aisnet.org/jais/vol12/iss12/2)
+
+> LYON, David. Cultura da vigilância: envolvimento, exposição e ética na modernidade digital. Em:
+Bruno, Fernanda et al. (orgs) Tecnopolítica da vigilância: perspectivas da margem. São Paulo:
+Boitempo, p.151-179, 2018.
+
+
+
+---
+class: middle, center
+
+## Obrigado gente!
+
+.pull-left[
+```{r, out.width="100%"}
+knitr::include_graphics("https://media1.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif")
+```
+]
+.pull-right[
+##**Agradecimentos especiais**:
+### Prof. Dr. Edison Bertoncelo - Pelo convite!
+<br>
+### Ao público pela paciência!
+]
+
