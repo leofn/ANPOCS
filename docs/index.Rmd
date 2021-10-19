@@ -181,7 +181,7 @@ class: inverse, middle, center
 <br>
 
 --
-## Evoca versus coleta (*repurpose* - Salganik, 2020)
+## Evocação versus coleta (*repurpose* - Salganik, 2020)
 <br>
 
 --
