@@ -236,19 +236,27 @@ class: inverse, middle, center
 class: inverse, middle, center
 
 --
-# Quem está tratando destes desafios?
+# Sociologia digital: quo vadis?
 <br>
 
 --
-## Sociologia e Antropologia Digitais
+### Utilidade;
 <br>
 
 --
-## Ciência Social Computacional
+### Aprendizado; 
 <br>
 
 --
-## Humanidades Digitais
+### Aperfeiçoamento;
+<br>
+
+--
+### Diversificação;
+<br>
+
+--
+### "Artesanato digital"
 <br>
 
 ---
