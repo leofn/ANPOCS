@@ -147,7 +147,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 .title-slide {
   background-image: url(imagens/slide_01.png);
   background-position: center;
-  background-size: 1180px;
+  background-size: 1100px;
   background-color: #fff;
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
   margin: auto;
