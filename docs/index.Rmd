@@ -121,7 +121,7 @@ knitr::include_graphics("img/surv.jpg")
 ---
 class: inverse, center, middle
 
-# Qual o papel da sociologia nesse mundo digital de dados continuamente produzidos?
+# Qual o papel da sociologia em um mundo digital de dados continuamente produzidos?
 
 ```{r, out.width="80%"}
 knitr::include_graphics("https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif?cid=ecf05e475vot0dyqf7ocbyf43eh75omn2pjcymz4m65rzbf4&rid=giphy.gif&ct=g")
