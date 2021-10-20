@@ -1,2 +1,11 @@
 # ANPOCS
-Apresentação para o Encontro da ANPOCS/2021 - https://leofn.github.io/ANPOCS/
+
+## CL 02 -Colóquio SBS: A Sociologia numa era de transformações digitais  
+
+### Sessão 1. Sociologia e conectividade digital  
+Dia 19/10 das 18h30 às 20h
+Coordenação: Jacob Lima (UFSCar/SBS)
+Debate: Helena Bomeny (UERJ)
+Expositores: Leonardo do Nascimento (UFBA), Sérgio Amadeu da Silveira (UFABC), Fernando Baliero (UFSM).
+
+LINK para acesso: [https://www.youtube.com/watch?v=BAO8NAsh_EM](https://www.youtube.com/watch?v=BAO8NAsh_EM)
